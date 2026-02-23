@@ -44,6 +44,7 @@
 **/.settings/
 **/targetConfigs/
 **/Debug/
+**/.launches/
 .ccsproject
 .cproject
 .project
