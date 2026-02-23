@@ -41,9 +41,9 @@
 *.dwo
 
 # Code Composer Studio files
-source/.settings/
-source/targetConfigs/
-source/Debug/
+**/.settings/
+**/targetConfigs/
+**/Debug/
 .ccsproject
 .cproject
 .project
